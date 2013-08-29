@@ -1,0 +1,4 @@
+
+reqiure 'prime.rb'
+
+Prime
